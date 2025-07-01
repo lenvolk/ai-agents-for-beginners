@@ -13,6 +13,7 @@
 .chainlit
 .venv
 *.DS_Store
+.docs
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -408,3 +409,4 @@ FodyWeavers.xsd
 
 # Ignore PNG files in the specified directory
 02-explore-agentic-frameworks/code_samples/*.png
+.docs/memory.md
